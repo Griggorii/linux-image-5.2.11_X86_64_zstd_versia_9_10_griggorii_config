@@ -1,7 +1,7 @@
 # linux-image-5.2.11_X86_64_zstd_versia_9_10_griggorii_config
 linux-image-5.2.11_X86_64_zstd_versia_9_10_griggorii_config
 
-Download deb kernel v11: https://drive.google.com/open?id=1Chs9kIkddXeQ99aagh5vuH6iZ3pY-njc
+Download deb kernel v11: https://drive.google.com/open?id=1Chs9kIkddXeQ99aagh5vuH6iZ3pY-njc ядро ещё сильнее в плане графики будет тянуть 4K 8K видео ещё быстрее
 
 Ядро которое идёт от 4 версии найти можно тут же у меня , будет пополнятся функциями которые более нужные цель не перевалить за 40 мегабайт.
 
