@@ -1,7 +1,7 @@
 # linux-image-5.2.11_X86_64_zstd_versia_9_10_griggorii_config
 linux-image-5.2.11_X86_64_zstd_versia_9_10_griggorii_config
 
-Download deb kernel v10: https://drive.google.com/open?id=1W7B54_1vkuOQ25-emwbi7P0l7i1SHYQw
+Download deb kernel v11: https://drive.google.com/open?id=1Chs9kIkddXeQ99aagh5vuH6iZ3pY-njc
 
 Ядро которое идёт от 4 версии найти можно тут же у меня , будет пополнятся функциями которые более нужные цель не перевалить за 40 мегабайт.
 
