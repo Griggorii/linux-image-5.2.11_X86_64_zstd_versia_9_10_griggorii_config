@@ -1,5 +1,5 @@
-# linux-image-5.2.11_X86_64_zstd_versia_9_10_griggorii_config
-linux-image-5.2.11_X86_64_zstd_versia_9_10_griggorii_config
+# linux-image-5.2.11_X86_64_zstd_versia_9_10_11_griggorii_config
+linux-image-5.2.11_X86_64_zstd_versia_9_10_11_griggorii_config
 
 Download deb kernel v11: https://drive.google.com/open?id=1ewBGxgGxs_ciY3rvq-Uy28kBSXBmSK8N ядро ещё сильнее в плане графики будет тянуть 4K 8K видео ещё быстрее
 
